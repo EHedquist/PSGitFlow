@@ -1,3 +1,4 @@
+a
 package com.pluralsight.jacket.entry.data.models;
 
 import javax.persistence.Entity;
